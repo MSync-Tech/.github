@@ -78,9 +78,6 @@ Here are some of the applications we have developed:
 <img src="https://github.com/user-attachments/assets/52a88516-a319-4334-8ef5-d7012976eb1f" alt="Orbix AI" width="300" style="margin:10px"/>
 <img src="https://github.com/user-attachments/assets/f732428e-8c72-4c6f-b15c-bb5e8a398224" alt="E-Commerce" width="300" style="margin:10px"/>
 <img src="https://github.com/user-attachments/assets/824f29c6-de31-4c9c-8a7b-10215c103212" alt="Showcase Design and Development" width="300" style="margin:10px"/>
-<img src="https://github.com/user-attachments/assets/341ff406-cbb0-49c6-929e-1aeecb866602" alt="Free Online Games" width="300" style="margin:10px"/>
-<img src="https://github.com/user-attachments/assets/9534374d-9309-411c-96a8-366b010af43c" alt="Extensions Visual Studio Code" width="300" style="margin:10px"/>
-<img src="https://github.com/user-attachments/assets/9cefe776-ea9e-4345-be12-26353a9aab1a" alt="Animation" width="300" style="margin:10px"/>
 
 </div>
 
