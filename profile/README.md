@@ -1,6 +1,6 @@
 <!-- ================= HEADER IMAGE ================= -->
 <div align="center">
-  <img width="120" alt="Image" src="https://github.com/user-attachments/assets/52cc7fd8-e5c6-4b5b-b827-835103076411" />
+  <img width="160" alt="Image" src="https://github.com/user-attachments/assets/52cc7fd8-e5c6-4b5b-b827-835103076411" />
 </div>
 
 <br/>
@@ -26,10 +26,10 @@ Founded in **2022**, **Matrix Sync Tech (msync)** is a technology organization w
 We are proud to serve **160+ national and international clients 🗺️**.  
 
 Our core values:  
-- 🎨 **Clean Design**  
-- 💪 **Powerful Functionality**  
-- 🌟 **Exceptional User Experience**  
-- 🔄 **Innovation & Adaptability**  
+- 🎏 **Clean Design**  
+- 🦾 **Powerful Functionality**  
+- 💫 **Exceptional User Experience**  
+- 🪽 **Innovation & Adaptability**  
 
 ---
 
@@ -75,9 +75,12 @@ Here are some of the applications we have developed:
 <div align="center">
   
 <!-- Insert your app screenshots here -->
-<img src="URL-SCREENSHOT-1" alt="App 1" width="300" style="margin:10px"/>
-<img src="URL-SCREENSHOT-2" alt="App 2" width="300" style="margin:10px"/>
-<img src="URL-SCREENSHOT-3" alt="App 3" width="300" style="margin:10px"/>
+<img src="https://github.com/user-attachments/assets/52a88516-a319-4334-8ef5-d7012976eb1f" alt="Orbix AI" width="300" style="margin:10px"/>
+<img src="https://github.com/user-attachments/assets/f732428e-8c72-4c6f-b15c-bb5e8a398224" alt="E-Commerce" width="300" style="margin:10px"/>
+<img src="https://github.com/user-attachments/assets/824f29c6-de31-4c9c-8a7b-10215c103212" alt="Showcase Design and Development" width="300" style="margin:10px"/>
+<img src="https://github.com/user-attachments/assets/341ff406-cbb0-49c6-929e-1aeecb866602" alt="Free Online Games" width="300" style="margin:10px"/>
+<img src="https://github.com/user-attachments/assets/9534374d-9309-411c-96a8-366b010af43c" alt="Extensions Visual Studio Code" width="300" style="margin:10px"/>
+<img src="https://github.com/user-attachments/assets/9cefe776-ea9e-4345-be12-26353a9aab1a" alt="Animation" width="300" style="margin:10px"/>
 
 </div>
 
@@ -87,7 +90,7 @@ Here are some of the applications we have developed:
 
 📧 Email: [tech@msync.my.id](mailto:tech@msync.my.id)  
 🌐 Website: [www.msync.my.id](https://www.msync.my.id)  
-📱 Instagram | 💼 LinkedIn | 🖥️ GitHub | 🎨 Dribbble  
+🧊 Instagram | 🐧 LinkedIn | 🌱 GitHub | 🎏 Dribbble  
 
 ---
 
