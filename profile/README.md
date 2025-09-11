@@ -7,7 +7,7 @@
 
 <!-- ================= TITLE & TAGLINE ================= -->
 <div align="center">
-  <h1>⚡ Matrix Sync Tech ⚡</h1>
+  <h1> 𐀪 Matrix Sync Tech ﾒ</h1>
   <p><i>Synchronizing Technology, in the orbit solutions.</i></p>
 
   <!-- Badges -->
