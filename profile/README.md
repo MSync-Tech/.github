@@ -1,6 +1,6 @@
 <!-- ================= HEADER IMAGE ================= -->
 <div align="center">
-  <img src="URL-HEADER-IMAGE" alt="Matrix Sync Tech" width="800"/>
+  <img src="mada1.png" alt="Matrix Sync Tech" width="800"/>
 </div>
 
 <br/>
