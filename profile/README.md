@@ -1,6 +1,6 @@
 <!-- ================= HEADER IMAGE ================= -->
 <div align="center">
-  <img src="https://github.com/Matrix-Sync-Tech/.github/raw/main/profile/mada1.png" alt="Matrix Sync Tech" width="800"/>
+  <img width="824" alt="Image" src="https://github.com/user-attachments/assets/52cc7fd8-e5c6-4b5b-b827-835103076411" />
 </div>
 
 <br/>
