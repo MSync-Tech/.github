@@ -86,7 +86,7 @@ Here are some of the applications we have developed:
 ## 🤝 Contact Us
 
 📧 Email: [tech@msync.my.id](mailto:tech@msync.my.id)  
-🌐 Website: [www.msync.my.id](https://www.msync.my.id)  
+🌐 Website: [www.msync.my.id](https://tech.msync.my.id)  
 🧊 Instagram | 🐧 LinkedIn | 🌱 GitHub | 🎏 Dribbble  
 
 ---
