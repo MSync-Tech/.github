@@ -74,7 +74,6 @@ Here are some of the applications we have developed:
 
 <div align="center">
   
-<!-- Insert your app screenshots here -->
 <img src="https://github.com/user-attachments/assets/52a88516-a319-4334-8ef5-d7012976eb1f" alt="Orbix AI" width="500" style="margin:10px"/>
 <img src="https://github.com/user-attachments/assets/f732428e-8c72-4c6f-b15c-bb5e8a398224" alt="E-Commerce" width="500" style="margin:10px"/>
 <img src="https://github.com/user-attachments/assets/824f29c6-de31-4c9c-8a7b-10215c103212" alt="Showcase Design and Development" width="500" style="margin:10px"/>
@@ -86,8 +85,8 @@ Here are some of the applications we have developed:
 ## 🤝 Contact Us
 
 📧 Email: [tech@msync.my.id](mailto:tech@msync.my.id)  
-🌐 Website: [www.msync.my.id](https://tech.msync.my.id)  
-🧊 Instagram | 🐧 LinkedIn | 🌱 GitHub | 🎏 Dribbble  
+🌐 Website: [tech,msync](https://tech.msync.my.id)  
+[🧊 Instagram](https://instagram.com/msync.tech/) | [🐧 LinkedIn](https://www.linkedin.com/company/msync/) | [🌱 GitHub](https://github.com/icecoffie) | [🎏 Dribbble ](https://dribbble.com/msync) 
 
 ---
 
