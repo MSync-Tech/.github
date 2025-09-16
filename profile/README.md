@@ -13,7 +13,10 @@
   <!-- Badges -->
   <img src="https://img.shields.io/badge/version-1.0.0-blue.svg" alt="Version"/>
   <img src="https://img.shields.io/badge/since-2022-orange.svg" alt="Since"/>
-  <img src="https://img.shields.io/badge/clients-160%2B-green.svg" alt="Clients"/>
+  <img src="https://img.shields.io/badge/clients-160%2B-green.svg" alt="Clients"/><div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MSync-Tech/icecoffie&count_bg=%2300FF00&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false" alt="visitor matrix">
+</div>
+
 </div>
 
 ---
