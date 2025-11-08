@@ -1,6 +1,6 @@
 <!-- ================= HEADER IMAGE ================= -->
 <div align="center">
-  <img width="500" alt="Image" src="https://github.com/user-attachments/assets/9a9f51b2-1c15-4a3e-bbf5-6456f99f0d39)" />
+  <img width="1000" alt="Image" src="https://github.com/user-attachments/assets/6137d00c-9b0f-4da0-842a-84f8a11751fa" />
 </div>
 
 <br/>
